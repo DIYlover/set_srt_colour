@@ -20,7 +20,7 @@ Below is the format of the command</br>
     sh% python set_srt_colour.py input_subtitle_file.srt [***Optional_output_subtitle_file.srt]
 
 REMARKS:
-    You can redefine your desired colour as well as the default suffix of the outfile in the script as following
+    You can redefine your desired colour as well as the default suffix of the output file in the script as following
   
     font_color_code = "#333333" #Here you can define your desired colour code
     file_suffix = "greyfont" #Here you can define your desired default suffix of output filename
