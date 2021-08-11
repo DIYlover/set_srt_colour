@@ -1,6 +1,6 @@
 # set_srt_colour.py
 
-This Python is to add your desired colour attribute to the subtitle in SRT format
+This Python script is to add your desired colour attribute into subtitle file in SRT format
 
 # PREREQUISITION
 It's simple a Python script so Python is a must, please ensure your system having python installed
