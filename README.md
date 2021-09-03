@@ -3,7 +3,9 @@
 This Python script is for applying custom subtitle text colour by adding your desired colour attribute into subtitle file in SRT format.  
 
 New edition are added, "srt_purplegrey_utf8.py" and "srt_purplegrey_utf16leBOM.py".  They both are set to use "light purple grey / #666699" color by default as well as enhanced to handle the case when input SRT file are encoded in UTF8/UTF16le with BOM.
-"srt_purplegrey_utf8.py" is for SRT in UTF8 format
+</BR>
+</BR>
+"srt_purplegrey_utf8.py" is for SRT in UTF8 format</BR>
 "srt_purplegrey_utf16leBOM.py" is for SRT in UTF16LE with BOM (I found some srt saved in this format)
 
 REMARKS: SET
