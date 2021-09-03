@@ -28,7 +28,7 @@ The script is looking for 2 arguments, the last one is optional.</br>
 )
 
 Below is the format of the command</br>
-    sh% python set_srt_colour.py input_subtitle_file.srt [***Optional_output_subtitle_file.srt]
+    sh% python <B>set_srt_colour.py</B> input_subtitle_file.srt [***Optional_output_subtitle_file.srt]
 
 REMARKS:
     You can redefine your desired colour as well as the default suffix of the output file in the script as following
